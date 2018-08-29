@@ -1,0 +1,19 @@
+{
+  "name": "high-frequency-lotto",
+  "version": "0.0.1",
+  "description": "Find commonly occurring lotto numbers.",
+  "main": "getTopSix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmurph850/high-frequency-lotto.git"
+  },
+  "author": "Tim Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmurph850/high-frequency-lotto/issues"
+  },
+  "homepage": "https://github.com/tmurph850/high-frequency-lotto#readme"
+}
